@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Form",
+  "name": "IISISS33FormE",
+  "className": "FormE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "форма",
+      "modelProjection": "FormE"
+    }
+  ]
+}

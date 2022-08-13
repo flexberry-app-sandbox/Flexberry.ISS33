@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-i-s-s33-size-e",
+  "editForm": "i-i-s-i-s-s33-size-e",
+  "external": false,
+  "caption": "Size",
+  "name": "IISISS33SizeL",
+  "className": "SizeL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "размер",
+      "modelProjection": "SizeL"
+    }
+  ]
+}

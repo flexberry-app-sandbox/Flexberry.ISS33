@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Investment",
+  "name": "IISISS33InvestmentE",
+  "className": "InvestmentE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "инвестиции",
+      "modelProjection": "InvestmentE"
+    }
+  ]
+}

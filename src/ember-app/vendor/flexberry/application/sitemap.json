@@ -1,0 +1,43 @@
+﻿{
+  "applicationCaption": "I s s33",
+  "applicationTitle": "I s s33",
+  "items": [
+    {
+      "link": null,
+      "menuName": "i-s-s33",
+      "caption": "ISS33",
+      "title": "ISS33",
+      "children": [
+        {
+          "link": "i-i-s-i-s-s33-size-l",
+          "menuName": null,
+          "caption": "Size",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-i-s-s33-form-l",
+          "menuName": null,
+          "caption": "Форма",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-i-s-s33-support-l",
+          "menuName": null,
+          "caption": "Support",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-i-s-s33-investment-l",
+          "menuName": null,
+          "caption": "Investment",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
