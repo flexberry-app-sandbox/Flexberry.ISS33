@@ -28,25 +28,25 @@ export default Controller.extend({
             link: 'i-i-s-i-s-s33-size-l',
             caption: i18n.t('forms.application.sitemap.i-s-s33.i-i-s-i-s-s33-size-l.caption'),
             title: i18n.t('forms.application.sitemap.i-s-s33.i-i-s-i-s-s33-size-l.title'),
-            icon: 'phone',
+            icon: 'table',
             children: null
           }, {
             link: 'i-i-s-i-s-s33-form-l',
             caption: i18n.t('forms.application.sitemap.i-s-s33.i-i-s-i-s-s33-form-l.caption'),
             title: i18n.t('forms.application.sitemap.i-s-s33.i-i-s-i-s-s33-form-l.title'),
-            icon: 'tags',
+            icon: 'archive',
             children: null
           }, {
             link: 'i-i-s-i-s-s33-support-l',
             caption: i18n.t('forms.application.sitemap.i-s-s33.i-i-s-i-s-s33-support-l.caption'),
             title: i18n.t('forms.application.sitemap.i-s-s33.i-i-s-i-s-s33-support-l.title'),
-            icon: 'calendar',
+            icon: 'archive',
             children: null
           }, {
             link: 'i-i-s-i-s-s33-investment-l',
             caption: i18n.t('forms.application.sitemap.i-s-s33.i-i-s-i-s-s33-investment-l.caption'),
             title: i18n.t('forms.application.sitemap.i-s-s33.i-i-s-i-s-s33-investment-l.title'),
-            icon: 'tags',
+            icon: 'table',
             children: null
           }]
         }
